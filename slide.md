@@ -33,6 +33,7 @@ Initial Public Offering on 19th August 2004
 If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
 
 ---
+<<<<<<< Updated upstream
 
 # Moore's Law
 
@@ -76,3 +77,6 @@ Exponential Organization can manage information-based world
 Test changes
 
 Does it work?
+=======
+## hallo felix siehst du meine änderung? 
+>>>>>>> Stashed changes
