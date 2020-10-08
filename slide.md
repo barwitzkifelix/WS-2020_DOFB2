@@ -30,7 +30,7 @@ Initial Public Offering on 19th August 2004
 
 ---
 
-If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 1
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 18
 
 
 ---
