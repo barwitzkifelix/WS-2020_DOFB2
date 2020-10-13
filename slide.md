@@ -1,13 +1,19 @@
 # Exponential Organization
 
+![menschen.jpg](menschen.jpg)
+
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
 >Why new Organizations are ten times better, faster, and Cheaper than yours (and what to do about it)
+
+![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)
 
 ---
 
 ## Definition
 
 >An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
+
+
 
 ---
 ## Google as origin and focal point
@@ -49,12 +55,12 @@ __Velocity and Intensity of Shifts is increasing__
 ---
 # Exponential Organization Examples
 
-* Uber
-* Apple
-* TED
-* Amazon
-* Microsoft
-* Airbnb
+* ![uber.jpg](uber.jpg)
+* ![apple.jpg](apple.jpg)
+* ![ted.jpg](ted.jpg)
+* ![amazon.jpg](amazon.jpg)
+* ![microsoft.jpg](microsoft.jpg)
+* ![airbnb.jpg](airbnb.jpg)
 
 ---
 
@@ -74,13 +80,3 @@ Projected Costs are decreasing
 Exponential Organization can manage information-based world 
 
 
-
-Test changes
-
-Does it work?
-
-test test 
-
-=======
-## hallo felix siehst du meine änderung?  hallo!
->>>>>>> Stashed changes
