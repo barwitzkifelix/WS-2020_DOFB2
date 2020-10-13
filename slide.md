@@ -7,7 +7,7 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ## Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies
+>An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
 
 ---
 ## Google as origin and focal point
@@ -30,9 +30,11 @@ Initial Public Offering on 19th August 2004
 
 ---
 
-If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 18
+
 
 ---
+<<<<<<< Updated upstream
 
 # Moore's Law
 
@@ -76,3 +78,9 @@ Exponential Organization can manage information-based world
 Test changes
 
 Does it work?
+
+test test 
+
+=======
+## hallo felix siehst du meine änderung? 
+>>>>>>> Stashed changes
