@@ -7,7 +7,7 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ## Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies
+>An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
 
 ---
 ## Google as origin and focal point
