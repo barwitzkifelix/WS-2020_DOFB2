@@ -34,9 +34,8 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-<<<<<<< Updated upstream
 
-# Moore's Law
+## Moore's Law
 
 Price and Performance of computation will double evey 18 months
 * Applies to IT
@@ -47,7 +46,7 @@ Price and Performance of computation will double evey 18 months
 __Velocity and Intensity of Shifts is increasing__
 
 ---
-# Exponential Organization Examples
+## Exponential Organization Examples
 
 * Uber
 * Apple
@@ -58,7 +57,7 @@ __Velocity and Intensity of Shifts is increasing__
 
 ---
 
-# Technologic Advancement enables Cost Reduction
+## Technologic Advancement enables Cost Reduction
 
 * 3D Printing: $40.000 in 2007 to $100 in 2014
 * Industrial Robotics: $500.000 in 2008 to $22.000 in 2013
@@ -72,15 +71,22 @@ Projected Costs are decreasing
 ## Disruption
 
 Exponential Organization can manage information-based world 
+Merits: Radical transformation is not possible without changing nature of organization 
+Exponential Organization represents the structure to address _accelerated_, _non-linear_ and _web-driven_ pace of the modern world
+
+---
+
+## Turning the traditional Organization inside out
+
+|   Traditionel Organization   |   Exponential Organization   |
+|   ----   |   ----------------------------------------:    |
+|   Owning assets / workforce   |   Leverage external resources   |
+|   Internal assets value the most   |   Information is greatest asset   |
+|   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
+|  Focus on core comepetencies   |   Think / aim big   |
+
+---
 
 
 
-Test changes
 
-Does it work?
-
-test test 
-
-=======
-## hallo felix siehst du meine änderung? 
->>>>>>> Stashed changes
