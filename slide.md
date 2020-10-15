@@ -76,6 +76,53 @@ Exponential Organization represents the structure to address _accelerated_, _non
 
 ---
 
+
+
+---
+
+## Massive Tranformation Purpose
+
+- Bild
+
+---
+
+## MTP
+
+_S_ Staff on demand
+_C_ Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)
+_A_ Algorithms (Machine learning and Deep Learning)
+_L_ Leveraged Assets (Non-Ownership)
+_E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
+
+---
+
+## Creating Exponential Organization
+
+* Interfaces
+* Dashboards to adapt objectives and key results
+* Experimentation
+* Autonomy creates innovative culture
+* Social Technologies
+
+---
+
+## Exponential Organization Ecosystem
+
+- Bild p.59 - p. 62
+
+---
+
+## Starting an Exponential Organization
+
+
+- Bild p. 64 - 66
+
+* Timeless obsticles: Technology risk, Market risk, Execution risk
+* Join or crate Massive tranformation purpose
+* Business Model Canvas (market penetration)
+* Define Business Model
+
+---
 ## Turning the traditional Organization inside out
 
 |   Traditionel Organization   |   Exponential Organization   |
@@ -83,10 +130,27 @@ Exponential Organization represents the structure to address _accelerated_, _non
 |   Owning assets / workforce   |   Leverage external resources   |
 |   Internal assets value the most   |   Information is greatest asset   |
 |   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
-|  Focus on core comepetencies   |   Think / aim big   |
+|  Focus on core comepetencies   |   Think / aim big with MTP   |
+|   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
+|   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
+
 
 ---
 
+## Exponential Organization Performance Improvement and Market Capitalization
 
+p.86 and 87
 
+Airbnb 
+Github
+Google ventures
+Tesla
 
+---
+
+## Exponential Executive
+
+Pressure to go exponential
+* no time to hesitate on decision-making
+* advancing technologies
+* organizational developments
