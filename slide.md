@@ -66,10 +66,10 @@ __Velocity and Intensity of Shifts is increasing__
 
 ## Technologic Advancement enables Cost Reduction
 
-* 3D Printing: $40.000 in 2007 to $100 in 2014
-* Industrial Robotics: $500.000 in 2008 to $22.000 in 2013
-* Technological Drones: $100.000 in 2007 to $700 in 2013
-* BioTech (DNA Sequencing): $10.000.000 in 2007 to $1.000 in 2014
+* 3D Printing: USD 40.000 in 2007 to USD 100 in 2014
+* Industrial Robotics: USD 500.000 in 2008 to USD 22.000 in 2013
+* Technological Drones: USD 100.000 in 2007 to USD 700 in 2013
+* BioTech (DNA Sequencing): USD 10.000.000 in 2007 to USD 1.000 in 2014
 
 Projected Costs are decreasing 
 
@@ -89,13 +89,14 @@ Exponential Organization represents the structure to address _accelerated_, _non
 hi
 ---
 
-## MTP
-
-_S_ Staff on demand
-_C_ Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)
-_A_ Algorithms (Machine learning and Deep Learning)
-_L_ Leveraged Assets (Non-Ownership)
-_E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
+### Massive Transportation Purpose
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _S_   |   Staff on demand   |
+|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
+|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
+|   _L_   |   Leveraged Assets (Non-Ownership)   |
+|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
 
 ---
 
