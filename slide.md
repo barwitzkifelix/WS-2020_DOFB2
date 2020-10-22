@@ -76,10 +76,6 @@ Exponential Organization represents the structure to address _accelerated_, _non
 
 ---
 
-
-
----
-
 ## Massive Tranformation Purpose
 
 - Bild
@@ -154,3 +150,14 @@ Pressure to go exponential
 * no time to hesitate on decision-making
 * advancing technologies
 * organizational developments
+
+
+---
+
+## Key Takeaways on Exponential Organization
+
+* Massive Transportation Purpose
+* Scale 
+* Is this the Organization form to start a business in the digital age? 
+
+---
