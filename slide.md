@@ -80,3 +80,5 @@ Projected Costs are decreasing
 Exponential Organization can manage information-based world 
 
 
+## Take away
+
