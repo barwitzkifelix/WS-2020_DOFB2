@@ -84,8 +84,9 @@ Exponential Organization represents the structure to address _accelerated_, _non
 ---
 
 ## Massive Tranformation Purpose
+![ideasscale.jpg](ideasscale.jpg)
 
-- Bild
+
 ---
 
 ## MTP
