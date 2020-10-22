@@ -82,3 +82,4 @@ Exponential Organization can manage information-based world
 
 ## Take away
 
+summary
