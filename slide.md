@@ -40,9 +40,8 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-<<<<<<< Updated upstream
 
-# Moore's Law
+## Moore's Law
 
 Price and Performance of computation will double evey 18 months
 * Applies to IT
@@ -53,7 +52,7 @@ Price and Performance of computation will double evey 18 months
 __Velocity and Intensity of Shifts is increasing__
 
 ---
-# Exponential Organization Examples
+## Exponential Organization Examples
 
 * ![uber.jpg](uber.jpg)
 * ![apple.jpg](apple.jpg)
@@ -64,7 +63,7 @@ __Velocity and Intensity of Shifts is increasing__
 
 ---
 
-# Technologic Advancement enables Cost Reduction
+## Technologic Advancement enables Cost Reduction
 
 * 3D Printing: $40.000 in 2007 to $100 in 2014
 * Industrial Robotics: $500.000 in 2008 to $22.000 in 2013
@@ -78,8 +77,93 @@ Projected Costs are decreasing
 ## Disruption
 
 Exponential Organization can manage information-based world 
+Merits: Radical transformation is not possible without changing nature of organization 
+Exponential Organization represents the structure to address _accelerated_, _non-linear_ and _web-driven_ pace of the modern world
+
+---
+
+## Massive Tranformation Purpose
+
+- Bild
+---
+
+## MTP
+
+_S_ Staff on demand
+_C_ Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)
+_A_ Algorithms (Machine learning and Deep Learning)
+_L_ Leveraged Assets (Non-Ownership)
+_E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
+
+---
+
+## Creating Exponential Organization
+
+* Interfaces
+* Dashboards to adapt objectives and key results
+* Experimentation
+* Autonomy creates innovative culture
+* Social Technologies
+
+---
+
+## Exponential Organization Ecosystem
+
+- Bild p.59 - p. 62
+
+---
+
+## Starting an Exponential Organization
 
 
-## Take away
+- Bild p. 64 - 66
 
-summary
+* Timeless obsticles: Technology risk, Market risk, Execution risk
+* Join or crate Massive tranformation purpose
+* Business Model Canvas (market penetration)
+* Define Business Model
+
+---
+## Turning the traditional Organization inside out
+
+|   Traditionel Organization   |   Exponential Organization   |
+|   ----   |   ----------------------------------------:    |
+|   Owning assets / workforce   |   Leverage external resources   |
+|   Internal assets value the most   |   Information is greatest asset   |
+|   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
+|  Focus on core comepetencies   |   Think / aim big with MTP   |
+|   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
+|   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
+
+
+---
+
+## Exponential Organization Performance Improvement and Market Capitalization
+
+p.86 and 87
+
+Airbnb 
+Github
+Google ventures
+Tesla
+
+---
+
+## Exponential Executive
+
+Pressure to go exponential
+* no time to hesitate on decision-making
+* advancing technologies
+* organizational developments
+
+
+---
+
+## Key Takeaways on Exponential Organization
+
+* Massive Transportation Purpose
+* Scale 
+* Is this the Organization form to start a business in the digital age? 
+
+---
+
