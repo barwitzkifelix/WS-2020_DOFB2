@@ -166,4 +166,4 @@ Pressure to go exponential
 * Is this the Organization form to start a business in the digital age? 
 
 ---
-
+## Take away 
