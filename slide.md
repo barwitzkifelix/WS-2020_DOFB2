@@ -51,6 +51,9 @@ Price and Performance of computation will double evey 18 months
 
 __Velocity and Intensity of Shifts is increasing__
 
+
+--- 
+Menti
 ---
 ## Exponential Organization Examples
 
@@ -83,6 +86,8 @@ Exponential Organization represents the structure to address _accelerated_, _non
 ### Massive Tranformation Purpose
 ![ideasscale.jpg](ideasscale.jpg) <!-- .element height="50%" width="50%" -->
 
+---
+
 ### Massive Transportation Purpose
 |          |   |
 |   ----   |   ----------------------------------------   |
@@ -111,8 +116,6 @@ Exponential Organization represents the structure to address _accelerated_, _non
 ---
 
 ## Starting an Exponential Organization
-
-
 - Bild p. 64 - 66
 
 * Timeless obsticles: Technology risk, Market risk, Execution risk
@@ -141,7 +144,6 @@ p.86 and 87
 
 Airbnb 
 Github
-Google ventures
 Tesla
 
 ---
@@ -159,9 +161,8 @@ Pressure to go exponential
 ## Key Takeaways on Exponential Organization
 
 * Massive Transportation Purpose
-* Scale 
+* SCALE 
 * Is this the Organization form to start a business in the digital age? 
 
 ---
-## Take away 
-*summary of the presentation*
+Bild "ausgeprägtes Gehirn" 
