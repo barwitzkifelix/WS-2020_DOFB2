@@ -41,7 +41,6 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-
 ## Moore's Law
 
 Price and Performance of computation will double evey 18 months
@@ -63,7 +62,6 @@ __Velocity and Intensity of Shifts is increasing__
 * ![airbnb.jpg](airbnb.jpg)
 
 ---
-
 ## Technologic Advancement enables Cost Reduction
 
 * 3D Printing: USD 40.000 in 2007 to USD 100 in 2014
@@ -82,12 +80,8 @@ Merits: Radical transformation is not possible without changing nature of organi
 Exponential Organization represents the structure to address _accelerated_, _non-linear_ and _web-driven_ pace of the modern world
 
 ---
-
-## Massive Tranformation Purpose
-![ideasscale.jpg](ideasscale.jpg)
-
-hi
----
+### Massive Tranformation Purpose
+![ideasscale.jpg](ideasscale.jpg) <!-- .element height="50%" width="50%" -->
 
 ### Massive Transportation Purpose
 |          |   |
