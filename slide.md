@@ -2,8 +2,9 @@
 
 ![menschen.jpg](menschen.jpg)
 
+---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
->Why new Organizations are ten times better, faster, and Cheaper than yours (and what to do about it)
+>Why new Organizations are ten times better, faster, and Cheaper than yours
 
 ![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)
 
@@ -36,7 +37,7 @@ Initial Public Offering on 19th August 2004
 
 ---
 
-If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 18
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
 
 
 ---
