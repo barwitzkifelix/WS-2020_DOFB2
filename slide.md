@@ -1,13 +1,20 @@
 # Exponential Organization
 
+![menschen.jpg](menschen.jpg)
+
+---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
->Why new Organizations are ten times better, faster, and Cheaper than yours (and what to do about it)
+>Why new Organizations are ten times better, faster, and Cheaper than yours
+
+![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)
 
 ---
 
 ## Definition
 
 >An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
+
+
 
 ---
 ## Google as origin and focal point
@@ -30,7 +37,7 @@ Initial Public Offering on 19th August 2004
 
 ---
 
-If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 18
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
 
 
 ---
@@ -48,21 +55,21 @@ __Velocity and Intensity of Shifts is increasing__
 ---
 ## Exponential Organization Examples
 
-* Uber
-* Apple
-* TED
-* Amazon
-* Microsoft
-* Airbnb
+* ![uber.jpg](uber.jpg)
+* ![apple.jpg](apple.jpg)
+* ![ted.jpg](ted.jpg)
+* ![amazon.jpg](amazon.jpg)
+* ![microsoft.jpg](microsoft.jpg)
+* ![airbnb.jpg](airbnb.jpg)
 
 ---
 
 ## Technologic Advancement enables Cost Reduction
 
-* 3D Printing: $40.000 in 2007 to $100 in 2014
-* Industrial Robotics: $500.000 in 2008 to $22.000 in 2013
-* Technological Drones: $100.000 in 2007 to $700 in 2013
-* BioTech (DNA Sequencing): $10.000.000 in 2007 to $1.000 in 2014
+* 3D Printing: USD 40.000 in 2007 to USD 100 in 2014
+* Industrial Robotics: USD 500.000 in 2008 to USD 22.000 in 2013
+* Technological Drones: USD 100.000 in 2007 to USD 700 in 2013
+* BioTech (DNA Sequencing): USD 10.000.000 in 2007 to USD 1.000 in 2014
 
 Projected Costs are decreasing 
 
@@ -77,18 +84,19 @@ Exponential Organization represents the structure to address _accelerated_, _non
 ---
 
 ## Massive Tranformation Purpose
+![ideasscale.jpg](ideasscale.jpg)
 
-- Bild
-
+hi
 ---
 
-## MTP
-
-_S_ Staff on demand
-_C_ Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)
-_A_ Algorithms (Machine learning and Deep Learning)
-_L_ Leveraged Assets (Non-Ownership)
-_E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
+### Massive Transportation Purpose
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _S_   |   Staff on demand   |
+|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
+|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
+|   _L_   |   Leveraged Assets (Non-Ownership)   |
+|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
 
 ---
 
@@ -161,3 +169,5 @@ Pressure to go exponential
 * Is this the Organization form to start a business in the digital age? 
 
 ---
+## Take away 
+*summary of the presentation*
