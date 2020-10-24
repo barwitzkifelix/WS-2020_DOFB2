@@ -54,6 +54,7 @@ __Velocity and Intensity of Shifts is increasing__
 
 --- 
 Menti
+
 ---
 ## Exponential Organization Examples
 
