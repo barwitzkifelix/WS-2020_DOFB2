@@ -1,13 +1,20 @@
 # Exponential Organization
 
+![menschen.jpg](menschen.jpg)<!-- .element height="75%" width="75%" -->
+
+---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
->Why new Organizations are ten times better, faster, and Cheaper than yours (and what to do about it)
+>Why new Organizations are ten times better, faster, and Cheaper than yours
+
+![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)
 
 ---
 
 ## Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
+>An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
+
+
 
 ---
 ## Google as origin and focal point
@@ -30,14 +37,12 @@ Initial Public Offering on 19th August 2004
 
 ---
 
-If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit. 18
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
 
 
 ---
-
-## Moore's Law
-
-Price and Performance of computation will double evey 18 months
+### Moore's Law as underlying principle
+>Price and Performance of computation will double evey 18 months
 * Applies to IT
 * Information enables doubling
 * Continous process
@@ -46,49 +51,55 @@ Price and Performance of computation will double evey 18 months
 __Velocity and Intensity of Shifts is increasing__
 
 ---
-## Exponential Organization Examples
+--- 
 
-* Uber
-* Apple
-* TED
-* Amazon
-* Microsoft
-* Airbnb
+Menti
 
 ---
+## Exponential Organization Examples
 
-## Technologic Advancement enables Cost Reduction
+* ![uber.jpg](uber.jpg)
+* ![apple.jpg](apple.jpg)
+* ![ted.jpg](ted.jpg)
+* ![amazon.jpg](amazon.jpg)
+* ![microsoft.jpg](microsoft.jpg)
+* ![airbnb.jpg](airbnb.jpg)
 
-* 3D Printing: $40.000 in 2007 to $100 in 2014
-* Industrial Robotics: $500.000 in 2008 to $22.000 in 2013
-* Technological Drones: $100.000 in 2007 to $700 in 2013
-* BioTech (DNA Sequencing): $10.000.000 in 2007 to $1.000 in 2014
+---
+### Technologic Advancement enables Cost Reduction
+|   Technology   |   2007   |   2014   |
+|   ----------   |   :--:   |   :--:   |
+|   3D Printing   |   USD 40.000   |   USD 100   |
+|   Industrial Robotics   |   USD 500.000   |   USD 22.000   |
+|   Technological Drones   |   USD 100.000   |   USD 700   |
+|   BioTech (DNA Sequencing)   |   USD 10.000.000   |   USD 1.000   |
 
-Projected Costs are decreasing 
+
+__Projected Costs are decreasing__ 
 
 ---
 
 ## Disruption
 
-Exponential Organization can manage information-based world 
-Merits: Radical transformation is not possible without changing nature of organization 
-Exponential Organization represents the structure to address _accelerated_, _non-linear_ and _web-driven_ pace of the modern world
+Exponential Organizations manage information-based world 
+>Merits: Radical transformation is not possible without changing nature of organization
+
+>Exponential Organization represent the structure to address __accelerated__, __non-linear__ and __web-driven__ pace of the modern world
+
+---
+### Massive Tranformation Purpose
+![ideasscale.jpg](ideasscale.jpg) <!-- .element height="50%" width="50%" -->
 
 ---
 
-## Massive Tranformation Purpose
-
-- Bild
-
----
-
-## MTP
-
-_S_ Staff on demand
-_C_ Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)
-_A_ Algorithms (Machine learning and Deep Learning)
-_L_ Leveraged Assets (Non-Ownership)
-_E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
+### Massive Transportation Purpose
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _S_   |   Staff on demand   |
+|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
+|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
+|   _L_   |   Leveraged Assets (Non-Ownership)   |
+|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
 
 ---
 
@@ -109,8 +120,6 @@ _E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
 ---
 
 ## Starting an Exponential Organization
-
-
 - Bild p. 64 - 66
 
 * Timeless obsticles: Technology risk, Market risk, Execution risk
@@ -119,17 +128,21 @@ _E_ Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)
 * Define Business Model
 
 ---
-## Turning the traditional Organization inside out
+# Turning the traditional Organization inside out
 
+---
 |   Traditionel Organization   |   Exponential Organization   |
-|   ----   |   ----------------------------------------:    |
+|   :----:   |   :----------------------------------------:    |
 |   Owning assets / workforce   |   Leverage external resources   |
 |   Internal assets value the most   |   Information is greatest asset   |
 |   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
+
+---
+|   Traditionel Organization   |   Exponential Organization   |
+|   :----:   |   :----------------------------------------:      |
 |  Focus on core comepetencies   |   Think / aim big with MTP   |
 |   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
 |   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
-
 
 ---
 
@@ -139,7 +152,6 @@ p.86 and 87
 
 Airbnb 
 Github
-Google ventures
 Tesla
 
 ---
@@ -157,7 +169,8 @@ Pressure to go exponential
 ## Key Takeaways on Exponential Organization
 
 * Massive Transportation Purpose
-* Scale 
+* SCALE 
 * Is this the Organization form to start a business in the digital age? 
 
 ---
+Bild "ausgeprägtes Gehirn" 
