@@ -6,7 +6,7 @@
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
 >Why new Organizations are ten times better, faster, and Cheaper than yours
 
-![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)
+![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
 
@@ -61,12 +61,7 @@ Menti
 ---
 ## Exponential Organization Examples
 
-* ![uber.jpg](uber.jpg)
-* ![apple.jpg](apple.jpg)
-* ![ted.jpg](ted.jpg)
-* ![amazon.jpg](amazon.jpg)
-* ![microsoft.jpg](microsoft.jpg)
-* ![airbnb.jpg](airbnb.jpg)
+![beispiele.jpg](beispiele.jpg)<!-- .element height="75%" width="75%" -->
 
 ---
 ### Technologic Advancement enables Cost Reduction
@@ -91,7 +86,7 @@ Exponential Organizations manage information-based world
 
 ---
 ### Massive Tranformation Purpose
-![ideasscale.jpg](ideasscale.jpg) <!-- .element height="50%" width="50%" -->
+![neu.jpg](neu.jpg) <!-- .element height="40%" width="40%" -->
 
 ---
 
@@ -118,17 +113,12 @@ Exponential Organizations manage information-based world
 
 ## Exponential Organization Ecosystem
 
-- Bild p.59 - p. 62
+![prozess.jpg](prozess.jpg)
 
 ---
 
 ## Starting an Exponential Organization
-- Bild p. 64 - 66
-
-* Timeless obsticles: Technology risk, Market risk, Execution risk
-* Join or crate Massive tranformation purpose
-* Business Model Canvas (market penetration)
-* Define Business Model
+![kreislaufg.jpg](kreislaufg.jpg) <!-- .element height="50%" width="50%" -->
 
 ---
 # Turning the traditional Organization inside out
@@ -176,4 +166,4 @@ Pressure to go exponential
 * Is this the Organization form to start a business in the digital age? 
 
 ---
-Bild "ausgeprägtes Gehirn" 
+![id.jpg](id.jpg) <!-- .element height="50%" width="50%" -->
