@@ -1,6 +1,6 @@
 # Exponential Organization
 
-![menschen.jpg](menschen.jpg)
+![menschen.jpg](menschen.jpg)<!-- .element height="75%" width="75%" -->
 
 ---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
@@ -12,7 +12,7 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ## Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies...
+>An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
 
 
 
@@ -44,6 +44,8 @@ If you had invested in 2004 and held the shares until now, you would have made a
 ## Moore's Law
 ![bg contain](Moore's Law.jpeg)
 Price and Performance of computation will double evey 18 months
+---
+### Moore's Law as underlying principle
 * Applies to IT
 * Information enables doubling
 * Continous process
@@ -51,8 +53,9 @@ Price and Performance of computation will double evey 18 months
 
 __Velocity and Intensity of Shifts is increasing__
 
-
+---
 --- 
+
 Menti
 
 ---
@@ -66,22 +69,25 @@ Menti
 * ![airbnb.jpg](airbnb.jpg)
 
 ---
-## Technologic Advancement enables Cost Reduction
+### Technologic Advancement enables Cost Reduction
+|   Technology   |   2007   |   2014   |
+|   ----------   |   :--:   |   :--:   |
+|   3D Printing   |   USD 40.000   |   USD 100   |
+|   Industrial Robotics   |   USD 500.000   |   USD 22.000   |
+|   Technological Drones   |   USD 100.000   |   USD 700   |
+|   BioTech (DNA Sequencing)   |   USD 10.000.000   |   USD 1.000   |
 
-* 3D Printing: USD 40.000 in 2007 to USD 100 in 2014
-* Industrial Robotics: USD 500.000 in 2008 to USD 22.000 in 2013
-* Technological Drones: USD 100.000 in 2007 to USD 700 in 2013
-* BioTech (DNA Sequencing): USD 10.000.000 in 2007 to USD 1.000 in 2014
 
-Projected Costs are decreasing 
+__Projected Costs are decreasing__ 
 
 ---
 
 ## Disruption
 
-Exponential Organization can manage information-based world 
-Merits: Radical transformation is not possible without changing nature of organization 
-Exponential Organization represents the structure to address _accelerated_, _non-linear_ and _web-driven_ pace of the modern world
+Exponential Organizations manage information-based world 
+>Merits: Radical transformation is not possible without changing nature of organization
+
+>Exponential Organization represent the structure to address __accelerated__, __non-linear__ and __web-driven__ pace of the modern world
 
 ---
 ### Massive Tranformation Purpose
@@ -125,17 +131,21 @@ Exponential Organization represents the structure to address _accelerated_, _non
 * Define Business Model
 
 ---
-## Turning the traditional Organization inside out
+# Turning the traditional Organization inside out
 
+---
 |   Traditionel Organization   |   Exponential Organization   |
-|   ----   |   ----------------------------------------:    |
+|   :----:   |   :----------------------------------------:    |
 |   Owning assets / workforce   |   Leverage external resources   |
 |   Internal assets value the most   |   Information is greatest asset   |
 |   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
+
+---
+|   Traditionel Organization   |   Exponential Organization   |
+|   :----:   |   :----------------------------------------:      |
 |  Focus on core comepetencies   |   Think / aim big with MTP   |
 |   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
 |   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
-
 
 ---
 
