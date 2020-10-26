@@ -41,8 +41,11 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
+## Moore's Law
+![bg contain](Moore's Law.jpeg)
+Price and Performance of computation will double evey 18 months
+---
 ### Moore's Law as underlying principle
->Price and Performance of computation will double evey 18 months
 * Applies to IT
 * Information enables doubling
 * Continous process
