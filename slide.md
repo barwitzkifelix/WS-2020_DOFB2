@@ -1,6 +1,6 @@
 # Exponential Organization
 
-![menschen.jpg](menschen.jpg)<!-- .element height="75%" width="75%" -->
+![menschen.jpg](menschen.jpg)<!-- .element height="65%" width="65%" -->
 
 ---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
