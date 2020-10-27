@@ -144,9 +144,9 @@ Exponential Organizations manage information-based world
 
 ## Exponential Organization Performance Improvement and Market Capitalization
 
-![tesla.jpg](tesla.jpg) <!-- .element height="30%" width="30%" -->
-![airbnb1.jpg](airbnb1.jpg) <!-- .element height="30%" width="30%" -->
-![github.jpg](github.jpg) <!-- .element height="30%" width="30%" -->
+![tesla.jpg](tesla.jpg) <!-- .element height="45%" width="45%" -->
+![airbnb1.jpg](airbnb1.jpg) <!-- .element height="45%" width="45%" -->
+![github.jpg](github.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
 
