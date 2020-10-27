@@ -106,10 +106,10 @@ Exponential Organizations manage information-based world
 |          |   |
 |   ----   |   ----------------------------------------   |
 |   _S_   |   Staff on demand   |
-|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
-|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
-|   _L_   |   Leveraged Assets (Non-Ownership)   |
-|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
+|   _C_   |   Community & Crowd   |
+|   _A_   |   Algorithms   | 
+|   _L_   |   Leveraged Assets    |
+|   _E_   |   Engagement   |
 
 ---
 ### Exponential Organization Ecosystem
