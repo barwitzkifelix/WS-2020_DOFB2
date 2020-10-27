@@ -4,7 +4,7 @@
 
 ---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
->Why new Organizations are ten times better, faster, and Cheaper than yours
+>Why new organizations are ten times better, faster, and cheaper than yours
 
 ![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)<!-- .element height="50%" width="50%" -->
 
@@ -12,7 +12,7 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ### Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
+>An __Exponential Organization__ is one whose impact or output is disproportionately large, _at least 10 times larger_, compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
 
 
 
@@ -93,18 +93,6 @@ Exponential Organizations manage information-based world
 ![neu.jpg](neu.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
-
-### Massive Transportation Purpose
-|          |   |
-|   ----   |   ----------------------------------------   |
-|   _S_   |   Staff on demand   |
-|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
-|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
-|   _L_   |   Leveraged Assets (Non-Ownership)   |
-|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
-
----
-
 ### Creating Exponential Organization
 |          |   |
 |   ----   |   ----------------------------------------   |
@@ -115,7 +103,16 @@ Exponential Organizations manage information-based world
 |   _S_   |   Social Technologies   |
 
 ---
+### Massive Transportation Purpose
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _S_   |   Staff on demand   |
+|   _C_   |   Community (attract, nurture, platform) & Crowd (harness creativity, innovation and validation)   |
+|   _A_   |   Algorithms (Machine learning and Deep Learning)   |
+|   _L_   |   Leveraged Assets (Non-Ownership)   |
+|   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
 
+---
 ### Exponential Organization Ecosystem
 
 ![prozess.jpg](prozess.jpg)
@@ -130,14 +127,14 @@ Exponential Organizations manage information-based world
 
 ---
 |   Traditionel Organization   |   Exponential Organization   |
-|   :----:   |   :----------------------------------------:    |
+|   :----   |   ---:    |
 |   Owning assets / workforce   |   Leverage external resources   |
 |   Internal assets value the most   |   Information is greatest asset   |
 |   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
 
 ---
 |   Traditionel Organization   |   Exponential Organization   |
-|   :----:   |   :----------------------------------------:      |
+|   :----   |   ---:      |
 |  Focus on core comepetencies   |   Think / aim big with MTP   |
 |   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
 |   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
