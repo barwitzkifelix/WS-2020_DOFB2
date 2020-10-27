@@ -1,4 +1,4 @@
-# Exponential Organization
+### Exponential Organization
 
 ![menschen.jpg](menschen.jpg)<!-- .element height="65%" width="65%" -->
 
@@ -42,10 +42,10 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 ---
 ## Moore's Law
-![bg contain](Moore's Law.jpeg)
+![Moore's_Law.jpg](Moore's_Law.jpg)
 Price and Performance of computation will double evey 18 months
 ---
-### Moore's Law as underlying principle
+## Moore's Law as underlying principle
 * Applies to IT
 * Information enables doubling
 * Continous process
@@ -67,7 +67,7 @@ Scan the QR code or go to https://www.menti.com and enter the code 8360867
 ![beispiele.jpg](beispiele.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
-### Technologic Advancement enables Cost Reduction
+## Technologic Advancement enables Cost Reduction
 |   Technology   |   2007   |   2014   |
 |   ----------   |   :--:   |   :--:   |
 |   3D Printing   |   USD 40.000   |   USD 100   |
@@ -88,12 +88,12 @@ Exponential Organizations manage information-based world
 >Exponential Organization represent the structure to address __accelerated__, __non-linear__ and __web-driven__ pace of the modern world
 
 ---
-### Massive Tranformation Purpose
+## Massive Tranformation Purpose
 ![neu.jpg](neu.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
 
-### Massive Transportation Purpose
+## Massive Transportation Purpose
 |          |   |
 |   ----   |   ----------------------------------------   |
 |   _S_   |   Staff on demand   |
@@ -145,7 +145,7 @@ Exponential Organizations manage information-based world
 ## Exponential Organization Performance Improvement and Market Capitalization
 
 ![tesla.jpg](tesla.jpg) <!-- .element height="45%" width="45%" -->
-![airbnb1.jpg](airbnb1.jpg) <!-- .element height="45%" width="45%" -->
+![airbnbnew.jpg](airbnbnew.jpg) <!-- .element height="40%" width="40%" -->
 ![github.jpg](github.jpg) <!-- .element height="55%" width="55%" -->
 
 ---
