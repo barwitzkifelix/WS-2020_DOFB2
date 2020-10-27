@@ -121,7 +121,7 @@ Exponential Organizations manage information-based world
 
 ---
 
-# Starting an Exponential Organization
+### Starting an Exponential Organization
 ![kreislaufg.jpg](kreislaufg.jpg) <!-- .element height="55%" width="55%" -->
 
 ---
@@ -143,11 +143,11 @@ Exponential Organizations manage information-based world
 
 ---
 
-### Exponential Organization Performance Improvement and Market Capitalization
+### Exponential Organization Performance Improvement 
 
-![tesla.jpg](tesla.jpg) <!-- .element height="45%" width="45%" -->
-![airbnbnew.jpg](airbnbnew.jpg) <!-- .element height="40%" width="40%" -->
-![github.jpg](github.jpg) <!-- .element height="55%" width="55%" -->
+![tesla.jpg](tesla.jpg) <!-- .element height="55%" width="55%" -->
+![airbnbnew.jpg](airbnbnew.jpg) <!-- .element height="50%" width="50%" -->
+![github.jpg](github.jpg) <!-- .element height="65%" width="65%" -->
 
 ---
 
