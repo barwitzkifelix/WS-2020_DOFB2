@@ -1,6 +1,6 @@
 ### Exponential Organization
 
-![menschen.jpg](menschen.jpg)<!-- .element height="65%" width="65%" -->
+![menschen.jpg](menschen.jpg)<!-- .element height="85%" width="85%" -->
 
 ---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
@@ -10,20 +10,20 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ---
 
-## Definition
+# Definition
 
 >An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
 
 
 
 ---
-## Google as origin and focal point
+# Google as origin and focal point
 
 How can you organize a digital organization to achieve __exponential output__?
 
 ---
 
-## Alphabet Value Creation
+# Alphabet Value Creation
 
 Initial Public Offering on 19th August 2004
 
@@ -41,12 +41,12 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-## Moore's Law
+# Moore's Law
 ![bg contain](Moore's Law.jpg)
 * Every two years (18 months) the number of transistors on a CPU doubles
 * Today's processors are roughly 100.000 x more powerful than those 30 years ago
 ---
-## Moore's Law as underlying principle
+# Moore's Law as underlying principle
 * Applies to IT
 * Information enables doubling
 * Continous process
@@ -63,12 +63,12 @@ Scan the QR code or go to https://www.menti.com and enter the code 8360867
 ![QRcode.jpg](QRcode.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
-## Exponential Organization Examples
+# Exponential Organization Examples
 
 ![beispiele.jpg](beispiele.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
-## Technologic Advancement enables Cost Reduction
+# Technologic Advancement enables Cost Reduction
 |   Technology   |   2007   |   2014   |
 |   ----------   |   :--:   |   :--:   |
 |   3D Printing   |   USD 40.000   |   USD 100   |
@@ -81,7 +81,7 @@ __Projected Costs are decreasing__
 
 ---
 
-## Disruption
+# Disruption
 
 Exponential Organizations manage information-based world 
 >Merits: Radical transformation is not possible without changing nature of organization
@@ -89,12 +89,12 @@ Exponential Organizations manage information-based world
 >Exponential Organization represent the structure to address __accelerated__, __non-linear__ and __web-driven__ pace of the modern world
 
 ---
-## Massive Tranformation Purpose
+# Massive Tranformation Purpose
 ![neu.jpg](neu.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
 
-## Massive Transportation Purpose
+# Massive Transportation Purpose
 |          |   |
 |   ----   |   ----------------------------------------   |
 |   _S_   |   Staff on demand   |
@@ -105,7 +105,7 @@ Exponential Organizations manage information-based world
 
 ---
 
-## Creating Exponential Organization
+# Creating Exponential Organization
 
 * Interfaces
 * Dashboards to adapt objectives and key results
@@ -115,13 +115,13 @@ Exponential Organizations manage information-based world
 
 ---
 
-## Exponential Organization Ecosystem
+# Exponential Organization Ecosystem
 
 ![prozess.jpg](prozess.jpg)
 
 ---
 
-## Starting an Exponential Organization
+# Starting an Exponential Organization
 ![kreislaufg.jpg](kreislaufg.jpg) <!-- .element height="55%" width="55%" -->
 
 ---
@@ -143,7 +143,7 @@ Exponential Organizations manage information-based world
 
 ---
 
-## Exponential Organization Performance Improvement and Market Capitalization
+# Exponential Organization Performance Improvement and Market Capitalization
 
 ![tesla.jpg](tesla.jpg) <!-- .element height="45%" width="45%" -->
 ![airbnbnew.jpg](airbnbnew.jpg) <!-- .element height="40%" width="40%" -->
@@ -151,7 +151,7 @@ Exponential Organizations manage information-based world
 
 ---
 
-## Exponential Executive
+# Exponential Executive
 
 Pressure to go exponential
 * no time to hesitate on decision-making
@@ -161,6 +161,6 @@ Pressure to go exponential
 
 ---
 
-## Key Takeaways on Exponential Organization
+# Key Takeaways on Exponential Organization
 
 ![id.jpg](id.jpg) <!-- .element height="70%" width="70%" -->
