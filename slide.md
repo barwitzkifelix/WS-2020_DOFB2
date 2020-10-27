@@ -4,7 +4,7 @@
 
 ---
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
->Why new Organizations are ten times better, faster, and Cheaper than yours
+>Why new organizations are ten times better, faster, and cheaper than yours
 
 ![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)<!-- .element height="50%" width="50%" -->
 
@@ -12,7 +12,7 @@ __Based on _"Exponential Organizaion"_ - Salim Ismail__
 
 ### Definition
 
->An __Exponential Organization__ is one whose impact or output is disproportionately large _at least 10 times larger_ compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
+>An __Exponential Organization__ is one whose impact or output is disproportionately large, _at least 10 times larger_, compared to its peers because of new organizational techniques that leverage accelerating technologies (...)
 
 
 
@@ -41,8 +41,8 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-### Moore's Law
-![bg contain](Moore's Law.jpg)
+## Moore's Law
+![MooresLaw.jpg](MooresLaw.jpg)
 * Every two years (18 months) the number of transistors on a CPU doubles
 * Today's processors are roughly 100.000 x more powerful than those 30 years ago
 ---
@@ -75,9 +75,9 @@ Scan the QR code or go to https://www.menti.com and enter the code 8360867
 |   Industrial Robotics   |   USD 500.000   |   USD 22.000   |
 |   Technological Drones   |   USD 100.000   |   USD 700   |
 |   BioTech (DNA Sequencing)   |   USD 10.000.000   |   USD 1.000   |
+---
 
-
-__Projected Costs are decreasing__ 
+## __Projected Costs are decreasing__ 
 
 ---
 
@@ -92,7 +92,16 @@ Exponential Organizations manage information-based world
 ![neu.jpg](neu.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
+### Creating Exponential Organization
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _I_   |   Interfaces   |
+|   _D_   |   Dashboards to adapt objectives and key results   |
+|   _E_   |   Experimentation   |
+|   _A_   |   Autonomy creates innovative culture   |
+|   _S_   |   Social Technologies   |
 
+---
 ### Massive Transportation Purpose
 |          |   |
 |   ----   |   ----------------------------------------   |
@@ -103,17 +112,6 @@ Exponential Organizations manage information-based world
 |   _E_   |   Engagement (Ranking, Rules, Goals, Rewards, Ecosystem)   |
 
 ---
-
-### Creating Exponential Organization
-
-* Interfaces
-* Dashboards to adapt objectives and key results
-* Experimentation
-* Autonomy creates innovative culture
-* Social Technologies
-
----
-
 ### Exponential Organization Ecosystem
 
 ![prozess.jpg](prozess.jpg)
@@ -128,14 +126,14 @@ Exponential Organizations manage information-based world
 
 ---
 |   Traditionel Organization   |   Exponential Organization   |
-|   :----:   |   :----------------------------------------:    |
+|   :----   |   ---:    |
 |   Owning assets / workforce   |   Leverage external resources   |
 |   Internal assets value the most   |   Information is greatest asset   |
 |   Product introduction in 250 - 300 days   |   Product introduction in 29 days   |
 
 ---
 |   Traditionel Organization   |   Exponential Organization   |
-|   :----:   |   :----------------------------------------:      |
+|   :----   |   ---:      |
 |  Focus on core comepetencies   |   Think / aim big with MTP   |
 |   Innovation through strategical planning   |   Community & Crowd, Experimentation, Autonomy   |
 |   Process inflexibility   |   Dashboard, adapting organization with objectives and key results   |
