@@ -148,16 +148,6 @@ Exponential Organizations manage information-based world
 
 ---
 
-### Exponential Executive
-
-Pressure to go exponential
-* no time to hesitate on decision-making
-* advancing technologies
-* organizational developments
-
-
----
-
 ### Key Takeaways on Exponential Organization
 
 ![id.jpg](id.jpg) <!-- .element height="70%" width="70%" -->
