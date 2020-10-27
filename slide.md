@@ -41,13 +41,8 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 
 ---
-<<<<<<< HEAD
 ## Moore's Law
 ![MooresLaw.jpg](MooresLaw.jpg)
-=======
-### Moore's Law
-![bg contain](Moore's Law.jpg)
->>>>>>> d67e14e8bcdc87c33c33218937298ab423fbfcea
 * Every two years (18 months) the number of transistors on a CPU doubles
 * Today's processors are roughly 100.000 x more powerful than those 30 years ago
 ---
@@ -111,12 +106,13 @@ Exponential Organizations manage information-based world
 ---
 
 ### Creating Exponential Organization
-
-* Interfaces
-* Dashboards to adapt objectives and key results
-* Experimentation
-* Autonomy creates innovative culture
-* Social Technologies
+|          |   |
+|   ----   |   ----------------------------------------   |
+|   _I_   |   Interfaces   |
+|   _D_   |   Dashboards to adapt objectives and key results   |
+|   _E_   |   Experimentation   |
+|   _A_   |   Autonomy creates innovative culture   |
+|   _S_   |   Social Technologies   |
 
 ---
 
