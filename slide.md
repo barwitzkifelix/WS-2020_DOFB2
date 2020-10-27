@@ -42,7 +42,7 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 ---
 ## Moore's Law
-![bg contain](Moore's Law.jpg)
+![MooresLaw.jpg](MooresLaw.jpg)
 * Every two years (18 months) the number of transistors on a CPU doubles
 * Today's processors are roughly 100.000 x more powerful than those 30 years ago
 ---
@@ -75,9 +75,9 @@ Scan the QR code or go to https://www.menti.com and enter the code 8360867
 |   Industrial Robotics   |   USD 500.000   |   USD 22.000   |
 |   Technological Drones   |   USD 100.000   |   USD 700   |
 |   BioTech (DNA Sequencing)   |   USD 10.000.000   |   USD 1.000   |
+---
 
-
-__Projected Costs are decreasing__ 
+## __Projected Costs are decreasing__ 
 
 ---
 
