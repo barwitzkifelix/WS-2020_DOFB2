@@ -6,7 +6,7 @@
 __Based on _"Exponential Organizaion"_ - Salim Ismail__ 
 >Why new Organizations are ten times better, faster, and Cheaper than yours
 
-![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)<!-- .element height="40%" width="40%" -->
+![CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg](CDA5AB3F-8E5D-4D02-AEEA-D09F381DED29.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
 
@@ -56,7 +56,8 @@ __Velocity and Intensity of Shifts is increasing__
 ---
 --- 
 
-Menti
+Scan the QR code or go to https://www.menti.com and enter the code 8360867
+![QRcode.jpg](QRcode.jpg)<!-- .element height="75%" width="75%" -->
 
 ---
 ## Exponential Organization Examples
