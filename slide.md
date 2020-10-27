@@ -25,9 +25,9 @@ How can you organize a digital organization to achieve __exponential output__?
 
 ### Alphabet Value Creation
 
-Initial public offering on 19th August 2004
+Initial Public Offering on 19th August 2004
 
-|   Date   |   Alphabet share value (highest of the year)   |
+|   Date   |   Alphabet Share Value (Highest of the year)   |
 |   ----   |   ----------------------------------------:    |
 |   2004   |   77 €   |
 |   2008   |   235 €   |
@@ -37,7 +37,7 @@ Initial public offering on 19th August 2004
 
 ---
 
-If you invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
+If you had invested in 2004 and held the shares until now, you would have made a __1788%__ profit.
 
 
 ---
@@ -52,7 +52,20 @@ If you invested in 2004 and held the shares until now, you would have made a __1
 * Continous process
 * Key technologies AI, robotics, biotech, data science, 3D printing etc.
 
-__Velocity and intensity of shifts are increasing__
+__Velocity and Intensity of Shifts is increasing__
+
+---
+--- 
+
+Scan the QR code or go to https://www.menti.com and enter the code 8360867
+
+
+![QRcode.jpg](QRcode.jpg)<!-- .element height="40%" width="40%" -->
+
+---
+### Exponential Organization Examples
+
+![beispiele.jpg](beispiele.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
 ### Technologic Advancement enables Cost Reduction
@@ -66,18 +79,8 @@ __Velocity and intensity of shifts are increasing__
 
 ## __Projected Costs are decreasing__ 
 
---- 
-
-Scan the QR code or go to https://www.menti.com and enter the code 8360867
-
-
-![QRcode.jpg](QRcode.jpg)<!-- .element height="40%" width="40%" -->
-
 ---
-### Exponential Organization Examples
 
-![beispiele.jpg](beispiele.jpg)<!-- .element height="50%" width="50%" -->
----
 ### Disruption
 Exponential Organizations manage information-based world 
 >Merits: Radical transformation is not possible without changing nature of organization
@@ -142,6 +145,8 @@ Exponential Organizations manage information-based world
 ![tesla.jpg](tesla.jpg) <!-- .element height="55%" width="55%" -->
 ![airbnbnew.jpg](airbnbnew.jpg) <!-- .element height="50%" width="50%" -->
 ![github.jpg](github.jpg) <!-- .element height="65%" width="65%" -->
+
+
 
 ---
 
