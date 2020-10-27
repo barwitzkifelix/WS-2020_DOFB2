@@ -146,7 +146,7 @@ Exponential Organizations manage information-based world
 
 ![tesla.jpg](tesla.jpg) <!-- .element height="45%" width="45%" -->
 ![airbnb1.jpg](airbnb1.jpg) <!-- .element height="45%" width="45%" -->
-![github.jpg](github.jpg) <!-- .element height="45%" width="45%" -->
+![github.jpg](github.jpg) <!-- .element height="55%" width="55%" -->
 
 ---
 
