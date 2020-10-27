@@ -57,12 +57,14 @@ __Velocity and Intensity of Shifts is increasing__
 --- 
 
 Scan the QR code or go to https://www.menti.com and enter the code 8360867
+
+
 ![QRcode.jpg](QRcode.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
 ## Exponential Organization Examples
 
-![beispiele.jpg](beispiele.jpg)<!-- .element height="40%" width="40%" -->
+![beispiele.jpg](beispiele.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
 ### Technologic Advancement enables Cost Reduction
@@ -162,4 +164,4 @@ Pressure to go exponential
 
 ## Key Takeaways on Exponential Organization
 
-![id.jpg](id.jpg) <!-- .element height="60%" width="60%" -->
+![id.jpg](id.jpg) <!-- .element height="70%" width="70%" -->
