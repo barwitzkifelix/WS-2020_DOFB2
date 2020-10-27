@@ -82,7 +82,6 @@ __Projected Costs are decreasing__
 ---
 
 ### Disruption
-
 Exponential Organizations manage information-based world 
 >Merits: Radical transformation is not possible without changing nature of organization
 
