@@ -42,7 +42,7 @@ If you had invested in 2004 and held the shares until now, you would have made a
 
 ---
 ## Moore's Law
-![ML.jpg](ML.jpg)<!-- .element height="60%" width="60%" -->
+![ML.jpg](ML.jpg)<!-- .element height="30%" width="30%" -->
 * Every two years (18 months) the number of transistors on a CPU doubles
 * Today's processors are roughly 100.000 x more powerful than those 30 years ago
 ---
