@@ -57,12 +57,12 @@ __Velocity and Intensity of Shifts is increasing__
 --- 
 
 Scan the QR code or go to https://www.menti.com and enter the code 8360867
-![QRcode.jpg](QRcode.jpg)<!-- .element height="75%" width="75%" -->
+![QRcode.jpg](QRcode.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
 ## Exponential Organization Examples
 
-![beispiele.jpg](beispiele.jpg)<!-- .element height="75%" width="75%" -->
+![beispiele.jpg](beispiele.jpg)<!-- .element height="40%" width="40%" -->
 
 ---
 ### Technologic Advancement enables Cost Reduction
@@ -87,7 +87,7 @@ Exponential Organizations manage information-based world
 
 ---
 ### Massive Tranformation Purpose
-![neu.jpg](neu.jpg) <!-- .element height="40%" width="40%" -->
+![neu.jpg](neu.jpg) <!-- .element height="45%" width="45%" -->
 
 ---
 
@@ -119,7 +119,7 @@ Exponential Organizations manage information-based world
 ---
 
 ## Starting an Exponential Organization
-![kreislaufg.jpg](kreislaufg.jpg) <!-- .element height="50%" width="50%" -->
+![kreislaufg.jpg](kreislaufg.jpg) <!-- .element height="55%" width="55%" -->
 
 ---
 # Turning the traditional Organization inside out
@@ -162,9 +162,4 @@ Pressure to go exponential
 
 ## Key Takeaways on Exponential Organization
 
-* Massive Transportation Purpose
-* SCALE 
-* Is this the Organization form to start a business in the digital age? 
-
----
-![id.jpg](id.jpg) <!-- .element height="50%" width="50%" -->
+![id.jpg](id.jpg) <!-- .element height="60%" width="60%" -->
