@@ -96,7 +96,7 @@ Exponential Organizations manage information-based world
 |          |   |
 |   ----   |   ----------------------------------------   |
 |   _I_   |   Interfaces   |
-|   _D_   |   Dashboards to adapt objectives and key results   |
+|   _D_   |   Dashboards    |
 |   _E_   |   Experimentation   |
 |   _A_   |   Autonomy creates innovative culture   |
 |   _S_   |   Social Technologies   |
